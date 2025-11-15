@@ -59,7 +59,7 @@
 </details>
 <details> 
   <summary><h2>📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔</h2></summary>
-      <img src="https://github-readme-stats.vercel.app/api?username=describanoa&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=describanoa&theme=ambient_gradient" alt="GitHub Stats"><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=describanoa&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
       <h2>🖁 𝑻𝒐𝒑 𝑪𝒐𝒏𝒕𝒓𝒊𝒃𝒖𝒕𝒆𝒅 𝑹𝒆𝒑𝒐</h2>
       <img src="https://github-contributor-stats.vercel.app/api?username=describanoa&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
